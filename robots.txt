@@ -1,0 +1,5 @@
+User-Agent: *
+Allow: /
+
+Host: https://milkyverse.co.in
+Sitemap: https://milkyverse.co.in/sitemap.xml

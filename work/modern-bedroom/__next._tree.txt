@@ -1,0 +1,4 @@
+:HL["/_next/static/css/f2cc3046f48b1700.css","style"]
+:HL["/_next/static/css/698f1fdb6c01a497.css","style"]
+:HL["/_next/static/css/029676ce674878bd.css","style"]
+0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"work","param":null,"prefetchHints":4192,"slots":{"children":{"name":"slug","param":{"type":"d","key":"modern-bedroom","siblings":[]},"prefetchHints":4192,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}}}},"staleTime":300,"buildId":"1tWe50EGJAWJ9z7mgzUUS"}

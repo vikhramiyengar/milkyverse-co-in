@@ -1,0 +1,30 @@
+# Milkyverse
+
+> An independent creative and development studio. Distinctive websites, digital products and imagined worlds, made in India.
+
+Milkyverse is an independent studio based in India that builds for clients anywhere. It designs and builds websites, online stores, web and mobile apps, and 3D/CGI imagery.
+
+Contact: connect@milkyverse.co.in (replies within one working day)
+
+## Services
+
+- [Websites](https://milkyverse.co.in/services/websites/): Websites designed and built in code, phone first, with copy, search setup and handover.
+- [Online stores](https://milkyverse.co.in/services/stores/): Shopify and D2C store design and build, product pages, checkout and tracking.
+- [Apps and products](https://milkyverse.co.in/services/apps/): Web apps and iOS and Android apps, designed, built and released.
+- [3D and CGI](https://milkyverse.co.in/services/3d/): 3D product visualisation and CGI.
+- [All services](https://milkyverse.co.in/services/)
+
+## Work
+
+- [Web & Apps](https://milkyverse.co.in/web/): Selected websites, stores and digital products.
+- [3D & CGI](https://milkyverse.co.in/3d/): Selected 3D and CGI projects.
+- [Oddzy](https://milkyverse.co.in/work/oddzy/): Sports intelligence, designed for the everyday fan.
+- [OUTLWD](https://milkyverse.co.in/work/outlwd/): An independent jewellery brand with an unmistakable edge.
+- [Flowing Tiger MMA](https://milkyverse.co.in/work/flowing-tiger/): An expressive website for a martial arts community.
+- [Signature Xperience](https://milkyverse.co.in/work/signature-xperience/): A cinematic home for live-event effects.
+- [Oddzy for iPhone](https://milkyverse.co.in/work/oddzy-app/): The Oddzy model as a native iPhone app.
+
+## Optional
+
+- [Home](https://milkyverse.co.in/)
+- [Sitemap](https://milkyverse.co.in/sitemap.xml)
